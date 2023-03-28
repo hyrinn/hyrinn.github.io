@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
+title: "Spring in University🌷"
+date: 2023-03-22
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+There are many cherry blossom trees in my school, and they are really pretty in spring.
+Everywhere you pass seems to become a photo zone, and it makes you feel like a main character in a movie.
 
-### Figures (for images or video)
+### cherry blossoms !!
 
-#### One Up
+#### Beautiful
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
@@ -19,7 +20,7 @@ Here are some examples of what a post with images might look like. If you want t
 
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
-#### Two Up
+#### Pretty
 
 Apply the `half` class like so to display two images side by side that share the same caption.
 
