@@ -14,7 +14,7 @@ Everywhere you pass seems to become a photo zone, and it makes you feel like a m
 #### Beautiful
 
 
-<img src="/Users/chohyorin/Downloads/IMG_5181.HEIC" width="40" height="60" alt="photo">
+<img src="hyrinn.github.io/assets/img/IMG_2993.HEIC" width="40" height="60" alt="photo">
 Cherry blossoms at night are really pretty
 
 
