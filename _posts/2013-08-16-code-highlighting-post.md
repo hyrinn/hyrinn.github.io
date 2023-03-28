@@ -22,7 +22,7 @@ Everyone who saw us probably thought we were twins.
 
 ### In the airplane
 
-    
+Before departure, I was the most excited and most energetic.    
 
 
 ### In Kyoto, Universal Stidio, Osaka
@@ -32,6 +32,6 @@ Everyone who saw us probably thought we were twins.
 
 ### Souvenirs!!
 
-An example of a Gist embed below.
+There were so many foods I wanted to buy at 돈키호테 !
 
-{% gist mmistakes/6589546 %}
+
