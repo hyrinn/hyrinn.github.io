@@ -13,10 +13,10 @@ Everywhere you pass seems to become a photo zone, and it makes you feel like a m
 
 #### Beautiful
 
-<figure>
-	<img src="IMG_5181.HEIC">
+
+<img src="IMG_5181.HEIC">
 Cherry blossoms at night are really pretty
-</figure>
+
 
 <img src ="IMG_5108.JPG">
 
@@ -24,20 +24,8 @@ If you walk around our school at night, you will see two princesses.👸🏻
 
 #### Pretty
 
-Apply the `half` class like so to display two images side by side that share the same caption.
 
 
 
-And you'll get something that looks like this:
-
-
-
-
-
-Apply the `third` class like so to display three images side by side that share the same caption.
-
-
-
-And you'll get something that looks like this:
 
 
