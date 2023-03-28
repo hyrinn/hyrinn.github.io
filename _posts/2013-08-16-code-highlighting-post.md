@@ -1,27 +1,20 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-date: 2013-08-16
+title: Japan with my BF♥️
+date: 2023-02-18
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
 ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+I had planned to go on a trip with my best friend since middle school.
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
-### Highlighted Code Blocks
 
-To modify styling and highlight colors edit `/assets/css/syntax.css`.
+### Before Departure 
 
-{% highlight css %}
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-{% endhighlight %}
+Before we went on a trip, we decided to match our wallets as a couple and wear similar clothes.
 
+Everyone who saw us probably thought we were twins.
 {% highlight html %}
 {% raw %}
 <nav class="pagination" role="navigation">
