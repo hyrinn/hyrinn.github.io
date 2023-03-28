@@ -40,7 +40,7 @@ And you'll get something that looks like this:
 	<figcaption>Two images.</figcaption>
 </figure>
 
-#### Three Up
+
 
 Apply the `third` class like so to display three images side by side that share the same caption.
 
