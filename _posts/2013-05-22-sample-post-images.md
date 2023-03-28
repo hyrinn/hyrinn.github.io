@@ -14,11 +14,11 @@ Everywhere you pass seems to become a photo zone, and it makes you feel like a m
 #### Beautiful
 
 
-<img src="/Users/chohyorin/Downloads/IMG_5181.HEIC">
+<img src="/Users/chohyorin/Downloads/IMG_5181.HEIC" width="40" height="60" alt="photo">
 Cherry blossoms at night are really pretty
 
 
-<img src ="IMG_5108.JPG">
+<img src ="/Users/chohyorin/Downloads/IMG_5108.JPG" >
 
 If you walk around our school at night, you will see two princesses.👸🏻
 
